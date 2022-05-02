@@ -1,1 +1,1 @@
-# cuervobernal.github.io
+Hi, I am cuervob69, and I am an enthusiast of technology, especially new ones, but I also love to talk about technology's history and future and its implications in human beings, life and universe, so I'm not only a tech geek o a techie, and I am more as a thinker.

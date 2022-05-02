@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Hi, I am cuervob69, and I am an enthusiast of technology, especially new ones, but I also love to discuss about technology's history and future and its implications for human beings, the rest of life, and nature, so I'm not as a geek o a techie precisely, and rather I think of myself more as a thinker of human realities from all perspectives, especially the scientific and technological ones.
 
-You can use the [editor on GitHub](https://github.com/cuervob69/cuervobernal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I usually introduce myself as a data scientist since most of my work experience is in analytics as it's the field in technology that call my attention the most.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have knowledge and experience in descriptive, predictive, and prescriptive analytics applied to activities and projects that matter to business purposes and/or scientific research.
 
-### Markdown
+Among these, there is exploratory data analysis (EDA), where I deal with frequency distributions, central tendency and dispersion measures, and data visualization, and confirmatory data analysis (CDA), where I tackle hypothesis testing and significance validation measures.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are also all that have to do with machine learning, like supervise learning, with algorithms like linear and logistic regression, linear discriminant analysis, decision trees, and random forest, naive Bayes and support vector machines, and non-supervised learning, with algorithms like k-means, Gaussian mixture model and hierarchical clustering, among others, and neural networks and deep learning.
 
-```markdown
-Syntax highlighted code block
+And last but not least, Big Data and data mining, where I face cloud base infrastructure and platforms, data management, architecture, and governance.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuervob69/cuervobernal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As a thinker of human problems and their solutions especially from the scientific and technological point of view, my approach to analytic endeavors is that of taking into account every possible aspect that might affect them: the final user (front end) as well as the developer (back end), data-driven decision-making as well as environmental sustainability, business profit as well as Business Process Organization, just to put some examples.
